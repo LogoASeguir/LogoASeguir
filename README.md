@@ -16,10 +16,10 @@ Building AI-powered dev tools and exploring local-first runtimes. The goal is to
 A self-learning AI runtime that turns conversations into reusable knowledge. Tracks design sessions, extracts skills/patterns, and builds a growing memory layer.
 
 ### [moment-editor](https://github.com/LogoASeguir/tool-moment-editor)
-Desktop tool for editing and organizing video/audio moments with precise timestamp control.
+Desktop tool for editing and organizing video/audio moments with precise timestamp control and non-destructive workflow.
 
 ### [project-compiler](https://github.com/LogoASeguir/tool-project-compiler)
-CLI utility that compiles project structures into a single readable document — perfect for sharing context with AI.
+CLI utility that compiles project scripts into a single usable .exe — perfect for testing.
 
 ### [local-git-manager](https://github.com/LogoASeguir/tool-local-git-manager)
 Batch git operations across multiple local repositories from one interface.
